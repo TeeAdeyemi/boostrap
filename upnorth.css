@@ -1,0 +1,223 @@
+#up{
+    background: radial-gradient(circle at 12.3% 19.3%, rgb(85, 88, 218) 0%, rgb(95, 209, 249) 100.2%);
+    height: 430px;
+}
+
+#button{
+    background-image: linear-gradient(hsl(252, 100%, 67%),hsl(241, 81%, 54%));
+    color: aliceblue;
+}
+
+#program{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    color:blueviolet;
+    }
+
+#pro{
+    color: darkorange;
+    margin-top: 30px;
+    text-align: center;
+    padding: 0;
+}
+
+#img{
+    text-align: center;
+    background: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;
+    background-size: 1px;
+
+}
+
+#head{
+    width:0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding: 0%;
+}
+.logo {
+    width: 150px;
+}
+
+.nav-item {
+    color:#d558c8;
+    font-weight: 900;
+    font-size: 16px;
+    padding:10px;
+}
+
+.navbar-nav{
+    margin: auto;
+}
+
+#our{
+    width: 50%;
+    font-size: 18px;
+    margin: 0 auto;
+    line-height: 30px;
+    margin-top: -80px;
+}
+
+.upnorth{
+    text-align: center;
+    padding-top: 120px;
+    color: whitesmoke;
+    font-family: Inter, sans-serif;
+    }
+
+.upnorth, h1{
+    font-size: 30px;
+        
+  }
+#button {
+    box-shadow: 5px 5px black;
+}
+
+#second{
+    background-color: blueviolet;
+
+}
+
+#success{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    color: crimson;
+    }
+
+    .main{
+        margin: 0 auto
+        }
+        
+        #ade{
+            height: 300px;
+            border-radius: 50px;
+            }
+       
+            #ade{
+            box-shadow: 5px 0 5px 0 rgb(231, 231, 231);
+        }
+        
+       
+        .col-sm-3 img{
+        border-radius: 50px;
+        }
+        
+        
+        #name{
+        color:crimson;
+        margin: 0 auto;
+        }
+        
+        #name h2{
+        text-align: center;
+        margin-top: 10px;
+        
+        }
+        
+        #ayo{
+            height: 800px;
+            margin-bottom: 70px;
+            }
+
+        #wendy{
+            height: 800px;.main{
+                margin: 0 auto
+                }
+                
+                .main .card{
+                    box-shadow: 5px 0 5px 0 rgb(231, 231, 231);
+                }
+                
+                #main{
+                height: 300px
+                }
+                .col-sm-3 img{
+                border-radius: 50px;
+                }
+                
+                
+                h2{
+                color: blueviolet;
+                margin: 0 auto;
+                }
+                
+                .content2 h2{
+                text-align: center;
+                margin-top: 10px;
+                
+                }
+            margin-bottom: 70PX;
+            }
+        #paul{
+              height: 800px;
+              margin-bottom: 70px;
+              }
+              
+        #second{
+             background-color:whitesmoke;
+            
+             }
+
+    #part{
+        background: linear-gradient(hsla(256, 72%, 46%, 1),hsla(241, 72%, 46%, 0));
+        border-top-right-radius: 30px;
+        border-top-left-radius: 8px;
+        border-bottom-left-radius: 30px;
+        border-bottom-right-radius: 8px;
+        margin: 0 auto;
+        height: 250px;
+        padding: 5px;
+        color: aliceblue;
+        text-align: center;
+        font-weight: 500;
+        box-shadow: 5px 3px 5px 3px rgb(203, 204, 226);
+    }
+
+
+    #with{
+        color: aliceblue;
+      
+    }
+
+    
+ 
+.partner{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    color: #d558c8;
+    }
+
+    .in{
+        margin: 20px auto;
+        background-color: #d558c8;
+
+    }
+    
+    .in h2{
+        color: #d558c8 ;
+        margin-top: 20px;
+        margin-bottom: 30px;
+        padding-left: 0;
+        padding-right: 0;
+        text-align: center;
+    }
+
+    #in {
+        height: 250px;
+    
+     }
+
+    
+    .whatsapp{
+        position: fixed;
+        right: 0px;
+
+    }
+
+    
